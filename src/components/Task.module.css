@@ -1,0 +1,17 @@
+.task {
+    background-color: var(--gray-500);
+    color: var(--white);
+    width: 100%;
+
+    display: flex;
+    padding: 1rem;
+
+    border: 1px solid var(--gray-400);
+    border-radius: 8px;
+
+    gap: 1rem;
+}
+
+.task span {
+    flex: 1;
+}
